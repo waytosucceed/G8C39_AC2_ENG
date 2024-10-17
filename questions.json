@@ -1,0 +1,302 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Convert this sentence from simple present passive voice to simple past passive voice: 'The letters are sent to the clients every day.'",
+        "options": [
+            "The letters were sent to the clients today.",
+            "The letters are being sent to the clients yesterday.",
+            "The letters were being sent to the clients yesterday.",
+            "The letters were sent to the clients yesterday."
+        ],
+        "correct": 3,
+        "explanation": "In simple present passive, the structure is 'are sent' (present) to indicate a routine or habitual action. To convert it to simple past passive, 'are sent' changes to 'were sent' to refer to a specific action completed in the past (yesterday). The first option is correct because it maintains the passive voice structure and shifts the time frame to the past."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Convert this sentence from simple present passive voice to simple past passive voice: 'The documents are reviewed by the committee.'",
+        "options": [
+            "The documents were reviewed by the committee.",
+            "The documents have been reviewed by the committee.",
+            "The documents had been reviewed by the committee.",
+            "The documents are being reviewed by the committee."
+        ],
+        "correct": 0,
+        "explanation": "In the simple past passive, 'are' changes to 'were' to indicate a past action. The structure follows the correct past passive form: subject + were + past participle (reviewed)."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Convert this sentence from present perfect interrogative passive voice to past perfect interrogative passive voice: 'Have the documents been submitted by the employees?'",
+        "options": [
+            "Had the documents been submitted by the employees?",
+            "Were the documents submitted by the employees?",
+            "Have the documents been submitting by the employees?",
+            "Had the documents being submitted by the employees?"
+        ],
+        "correct": 0,
+        "explanation": "In past perfect interrogative passive, 'Have' changes to 'Had' to reflect the past perfect tense, while 'been submitted' (past participle) stays the same. The structure remains 'Had + subject + been + past participle'."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Spot the error in the sentence: 'The crucial evidence were presented to the jury by the attorney before the trial ended.'",
+        "options": [
+            "The crucial evidence",
+            "Were",
+            "Presented",
+            "to the jury"
+        ],
+        "correct": 1,
+        "explanation": "The verb 'were' should be 'was' because 'evidence' is treated as a singular uncountable noun. The correct sentence should read, 'The crucial evidence was presented to the jury by the attorney before the trial ended.' In passive voice, the form of 'to be' must match the singular subject."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Spot the error in the sentence: 'The recommendations were developed by the committee after the analysis was completed last month.'",
+        "options": [
+            "The recommendations",
+            "Were",
+            "Developed",
+            "was completed"
+        ],
+        "correct": 3,
+        "explanation": "The phrase 'was completed' should be 'were completed' to maintain consistency with the plural subject 'recommendations.' The correct sentence should read, 'The recommendations were developed by the committee after the analysis was completed last month.'"
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Identify the sentence that has an error:",
+        "options": [
+            "The car has been repaired yesterday.",
+            "The letter has been delivered this morning.",
+            "The movie has been watched many times.",
+            "The cake has been eaten by the children."
+        ],
+        "correct": 0,
+        "explanation": "The present perfect tense is used to express actions that started in the past and continue to have an effect in the present. The phrase 'yesterday' indicates a specific time in the past, so the past simple tense would be more appropriate. The correct sentence would be 'The car was repaired yesterday.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "The letters ____ by the postman every morning.",
+        "options": [
+            "have been delivered",
+            "is delivered",
+            "were delivered",
+            "are delivered"
+        ],
+        "correct": 3,
+        "explanation": "In simple present passive voice, we use 'are' with plural subjects (like 'letters') and the past participle of the verb, which is 'delivered' in this case. Option b is incorrect because 'is' is used for singular subjects. Option c shifts the sentence to past tense, and Option d shifts it to present perfect tense, making both of these options incorrect."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The significant findings from the research ____ by the committee during the evaluation process last month.",
+        "options": [
+            "were discussed",
+            "was discussed",
+            "have been discussed",
+            "are discussed"
+        ],
+        "correct": 0,
+        "explanation": "In simple past passive voice, we use 'were' for plural subjects (like 'the significant findings') and the past participle 'discussed.' This indicates that the action was completed in the past. Option b incorrectly uses 'was,' which is singular, and Option c shifts to present perfect tense, while Option d is in simple present tense."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "By the time the audit began, the discrepancies in the financial statements ____ by the accountants and needed further investigation.",
+        "options": [
+            "had been identified",
+            "were identified",
+            "have been identified",
+            "are identified"
+        ],
+        "correct": 0,
+        "explanation": "In the past perfect passive voice, we use 'had been' followed by the past participle 'identified.' This indicates that the action was completed before another past event (the audit began). Option b is in simple past tense, which is incorrect, while Option c uses present perfect, and Option d is in simple present tense, neither of which fit this context."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Complex algorithms ____ by data scientists to analyse trends and patterns in large datasets regularly.",
+        "options": [
+            "is developed",
+            "are developed",
+            "has been developed",
+            "were developed"
+        ],
+        "correct": 1,
+        "explanation": "In simple present passive voice, we use 'are' for plural subjects (like 'complex algorithms') along with the past participle 'developed.' This indicates a routine process conducted by data scientists. Option a incorrectly uses 'is,' which is singular, while Option c uses present perfect tense, and Option d shifts to past tense."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "After the renovations were completed, the building ____ by the new tenants for a variety of events.",
+        "options": [
+            "had been leased",
+            "was leased",
+            "have been leased",
+            "were leased"
+        ],
+        "correct": 0,
+        "explanation": "In the past perfect passive voice, we use 'had been' followed by the past participle 'leased.' This shows that the action was completed before another past event (the completion of renovations). Option b uses simple past tense, which is incorrect, while Option c shifts to present perfect, and Option d uses simple past, both of which are incorrect in this context."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Complex mathematical models ____ by researchers in various fields to derive insights and make predictions.",
+        "options": [
+            "are frequently developed",
+            "is frequently developed",
+            "were frequently developed",
+            "has been frequently developed"
+        ],
+        "correct": 0,
+        "explanation": "In simple present passive voice, we use 'are' for plural subjects (like 'complex mathematical models') followed by the past participle 'developed.' This construction indicates a habitual action in the present performed by researchers. Option b incorrectly uses 'is,' which is singular. Option c shifts to the simple past tense, while Option d employs the present perfect tense, both of which do not fit in this context."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "The critical regulations regarding environmental safety ____ by the committee prior to their official enactment last year.",
+        "options": [
+            "have been meticulously reviewed",
+            "was meticulously reviewed",
+            "were meticulously reviewed",
+            "are meticulously reviewed"
+        ],
+        "correct": 2,
+        "explanation": "In simple past passive voice, we use 'were' for plural subjects (like 'the critical regulations') followed by the past participle 'reviewed.' This indicates that the action was completed in the past before the official enactment. Option b incorrectly uses 'was,' which is for singular subjects. Option c shifts to present perfect tense, and Option d is in the simple present tense, neither of which is correct in this context."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Are groundbreaking innovations in technology ____ by engineers to revolutionise industries?",
+        "options": [
+            "consistently utilised",
+            "consistently utilising",
+            "consistently use",
+            "consistently being used"
+        ],
+        "correct": 0,
+        "explanation": "The structure for the simple present passive voice is 'Are + subject + past participle.' 'Consistently utilised' is the correct form, indicating that this is an ongoing action performed regularly by engineers. Options b and d do not conform to the passive voice structure, while option c uses the active voice."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Was the complex algorithm ____ by the developers before the system was deployed?",
+        "options": [
+            "being meticulously tested",
+            "meticulously testing",
+            "meticulously test",
+            "meticulously tested"
+        ],
+        "correct": 3,
+        "explanation": "In the simple past passive voice, the structure is 'Was/Were + subject + past participle.' 'Meticulously tested' is the appropriate past participle form, indicating that the action was completed before another past event. Options b and d do not fit the passive voice structure, and option c is in the active form."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Have sustainable practices ____ by companies to mitigate environmental impacts?",
+        "options": [
+            "effectively implemented",
+            "effectively implement",
+            "effectively implementing",
+            "been effectively implemented"
+        ],
+        "correct": 3,
+        "explanation": "In the present perfect passive voice, the structure is 'Have/Has + subject + been + past participle.' 'Been effectively implemented' fits this structure, suggesting that the action has been completed recently. Options a, b, and c do not conform to the correct passive form."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "The project is completed by the team every month. Which tense is used in this sentence?",
+        "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+        ],
+        "correct": 0,
+        "explanation": "The sentence uses the structure 'is + past participle,' indicating that the action (completion of the project) happens regularly in the present. Therefore, the correct identification is Simple Present Passive. Options b, c, and d do not fit because they represent past actions or different tense forms."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "The documents have been reviewed by the committee. Which tense is used in this sentence?",
+        "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+        ],
+        "correct": 2,
+        "explanation": "The sentence uses the structure 'have been + past participle,' indicating that the action of reviewing the documents has been completed recently. Therefore, this is classified as Present Perfect Passive. Options a, b, and d do not fit because they represent different tense forms."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The presentation had been prepared by the team before the meeting started. Which tense is used in this sentence?",
+        "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+        ],
+        "correct": 3,
+        "explanation": "The structure 'had been + past participle' indicates that the action (preparation of the presentation) was completed before another past event (the meeting starting). This makes it a Past Perfect Passive sentence. Options a, b, and c are incorrect as they do not match the past perfect structure."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Was the report submitted by the student yesterday? Which tense is used in this sentence?",
+        "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+        ],
+        "correct": 1,
+        "explanation": "The structure 'was + past participle' indicates that the action of submitting the report occurred in the past (yesterday). Therefore, this sentence is classified as Simple Past Passive. Options a, c, and d are incorrect because they do not match the past tense construction used."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Comprehensive audits ____ by the compliance department to ensure regulatory adherence.",
+        "options": [
+            "has been conducted",
+            "is conducted",
+            "were conducted",
+            "are conducted"
+        ],
+        "correct": 3,
+        "explanation": "In the simple present passive voice, the structure is 'are/is + past participle.' The plural subject 'audits' requires 'are conducted,' indicating that the action occurs regularly. Option b ('is conducted') incorrectly uses the singular form. Options c and d are in the past and present perfect tenses, respectively, which are not suitable for this context."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "The intricate design of the prototype ____ by the engineers prior to the product launch.",
+        "options": [
+            "was finalised",
+            "were finalised",
+            "has been finalised",
+            "is finalised"
+        ],
+        "correct": 0,
+        "explanation": "In the simple past passive voice, the structure is 'was/were + past participle.' 'Was finalised' correctly indicates that a singular subject ('the intricate design') was completed in the past. Option b ('were finalised') incorrectly suggests a plural subject. Options c and d are in the present perfect and simple present tenses, which do not fit this context."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "The crucial documentation ____ by the legal team before the final negotiations commenced.",
+        "options": [
+            "was prepared",
+            "had been prepared",
+            "have been prepared",
+            "were prepared"
+        ],
+        "correct": 1,
+        "explanation": "In the past perfect passive voice, the structure is 'had been + past participle.' 'Had been prepared' indicates that the action was completed before another past event ('the final negotiations commenced'). Option b ('was prepared') is in the simple past, option c ('have been prepared') is in the present perfect, and option d ('were prepared') is also in the simple past, which do not fit this structure."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Are the complex algorithms ____ by the data scientists to improve accuracy in predictions?",
+        "options": [
+            "Analysed",
+            "Analyse",
+            "Analysing",
+            "was analysed"
+        ],
+        "correct": 0,
+        "explanation": "In the simple present passive voice, the structure is 'are + past participle.' The correct choice 'analysed' completes the question correctly, indicating that this is a regular action performed by the data scientists. Option b ('analyse') is in the base form and does not fit the passive construction. Option c ('analysing') is in the present participle form, which is also incorrect. Option d ('was analysed') is in the simple past tense, making it inappropriate for the present tense."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Had the crucial revisions ____ by the editorial team completed prior to the manuscript submission?",
+        "options": [
+            "being",
+            "been",
+            "have",
+            "was"
+        ],
+        "correct": 1,
+        "explanation": "In the past perfect passive voice, the structure is 'had been + past participle.' The correct choice 'been' completes the question and is crucial for establishing the passive form, indicating the revisions were completed before another past event (manuscript submission). Option a ('being') is in the present participle form and incorrect. Options c ('have') and d ('was') do not complete the past perfect structure appropriately."
+    }
+]
